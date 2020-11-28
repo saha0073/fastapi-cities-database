@@ -1,5 +1,5 @@
 # fastapi-cities-database
-A database of cities created with fastapi. It can display existed cities in the database, add new cities, and supports deletion of already existed cities.
+A database of cities created with FastAPI. It can display existed cities in the database, add new cities, and supports deletion of already existed cities.
 
 ![title-pic](https://github.com/saha0073/fastapi-cities-database/blob/main/fastapi_endpoints.PNG)
 
